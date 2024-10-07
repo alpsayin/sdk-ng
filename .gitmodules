@@ -15,7 +15,7 @@
 	url = https://github.com/zephyrproject-rtos/binutils-gdb.git
 [submodule "picolibc"]
 	path = picolibc
-	url = https://github.com/zephyrproject-rtos/picolibc.git
+	url = https://github.com/alpsayin/picolibc.git
 [submodule "crosskit-x86_64-apple-darwin"]
 	path = crosskit/crosskit-x86_64-apple-darwin
 	url = https://github.com/zephyrproject-rtos/crosskit-x86_64-apple-darwin.git
